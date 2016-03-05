@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tusculanarumdis02ciceuoft_0007.png"; bbox 0 0 1794 3103; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 10 15 986">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 10 15 986">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 10 15 986; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 10 15 986; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 47 965 1683 1312">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 47 965 1683 1312">
+     <span class='ocr_line' id='line_1_2' title="bbox 372 965 1368 1029; baseline 0.002 -3"><span class='ocrx_word' id='word_1_2' title='bbox 372 967 463 1027; x_wconf 90' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 506 965 785 1027; x_wconf 82' lang='lat' dir='ltr'>TVLLI</span> <span class='ocrx_word' id='word_1_4' title='bbox 842 966 1368 1029; x_wconf 84' lang='lat' dir='ltr'><strong>CICERONIS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 47 1101 1683 1164; baseline 0.001 -2"><span class='ocrx_word' id='word_1_5' title='bbox 47 1101 828 1163; x_wconf 83' lang='lat' dir='ltr'><strong>TVSCVLANARVM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 886 1101 1683 1164; x_wconf 82' lang='lat' dir='ltr'><strong>DISPVTATIONVM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 494 1237 1241 1312; baseline 0.001 -16"><span class='ocrx_word' id='word_1_7' title='bbox 494 1237 748 1297; x_wconf 87' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_8' title='bbox 805 1237 1241 1312; x_wconf 75' lang='lat' dir='ltr'><strong>QVINQVE</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

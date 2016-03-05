@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tusculanarumdis02ciceuoft_0008.png"; bbox 0 0 1794 3103; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 751 996 962 1026">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 751 996 962 1026">
+     <span class='ocr_line' id='line_1_1' title="bbox 751 996 962 1026; baseline 0.005 -1"><span class='ocrx_word' id='word_1_1' title='bbox 751 996 962 1026; x_wconf 88' lang='lat' dir='ltr'>LONDON</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 568 1056 1144 1144">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 568 1056 1144 1144">
+     <span class='ocr_line' id='line_1_2' title="bbox 568 1056 1144 1098; baseline 0 -9"><span class='ocrx_word' id='word_1_2' title='bbox 568 1056 788 1098; x_wconf 85' lang='lat' dir='ltr'>Cambridge</span> <span class='ocrx_word' id='word_1_3' title='bbox 806 1057 1021 1098; x_wconf 81' lang='lat' dir='ltr'>University</span> <span class='ocrx_word' id='word_1_4' title='bbox 1037 1057 1144 1089; x_wconf 86' lang='lat' dir='ltr'>Press</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 721 1124 988 1144; baseline 0.004 -2"><span class='ocrx_word' id='word_1_5' title='bbox 721 1124 737 1142; x_wconf 71' lang='lat' dir='ltr'>F</span> <span class='ocrx_word' id='word_1_6' title='bbox 744 1124 762 1142; x_wconf 77' lang='lat' dir='ltr'><strong>E</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 770 1124 787 1142; x_wconf 79' lang='lat' dir='ltr'>T</span> <span class='ocrx_word' id='word_1_8' title='bbox 795 1124 812 1142; x_wconf 86' lang='lat' dir='ltr'>T</span> <span class='ocrx_word' id='word_1_9' title='bbox 819 1124 837 1143; x_wconf 77' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_10' title='bbox 848 1124 866 1143; x_wconf 78' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_11' title='bbox 890 1124 907 1143; x_wconf 87' lang='lat' dir='ltr'>L</span> <span class='ocrx_word' id='word_1_12' title='bbox 915 1125 933 1142; x_wconf 86' lang='grc' dir='ltr'><strong>Λ</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 942 1125 961 1144; x_wconf 82' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_14' title='bbox 969 1124 988 1143; x_wconf 77' lang='grc' dir='ltr'><strong>Ε</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 498 1203 1214 1284">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 498 1203 1214 1284">
+     <span class='ocr_line' id='line_1_4' title="bbox 604 1203 1105 1228; baseline 0.004 -2"><span class='ocrx_word' id='word_1_15' title='bbox 604 1203 703 1227; x_wconf 80' lang='lat' dir='ltr'><strong>NEW</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 724 1203 847 1227; x_wconf 80' lang='lat' dir='ltr'><strong>YORK</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 869 1209 877 1217; x_wconf 90' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 899 1204 1105 1228; x_wconf 83' lang='lat' dir='ltr'>TORONTO</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 498 1258 1214 1284; baseline 0.001 -1"><span class='ocrx_word' id='word_1_19' title='bbox 498 1258 689 1283; x_wconf 78' lang='lat' dir='ltr'>BOMBAY</span> <span class='ocrx_word' id='word_1_20' title='bbox 713 1264 720 1272; x_wconf 88' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 745 1259 978 1283; x_wconf 77' lang='lat' dir='ltr'>CALCUTTA</span> <span class='ocrx_word' id='word_1_22' title='bbox 1001 1264 1009 1273; x_wconf 89' lang='lat'><em>·</em></span> <span class='ocrx_word' id='word_1_23' title='bbox 1031 1258 1214 1284; x_wconf 78' lang='lat' dir='ltr'>MADRAS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 750 1310 963 1343">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 750 1310 963 1343">
+     <span class='ocr_line' id='line_1_6' title="bbox 750 1310 963 1343; baseline 0 -1"><span class='ocrx_word' id='word_1_24' title='bbox 750 1310 963 1343; x_wconf 84' lang='lat' dir='ltr'><strong>Macmillan</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 618 1406 1092 1500">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 618 1406 1092 1500">
+     <span class='ocr_line' id='line_1_7' title="bbox 778 1406 930 1430; baseline 0.007 -1"><span class='ocrx_word' id='word_1_25' title='bbox 778 1406 930 1430; x_wconf 82' lang='lat' dir='ltr'>TOKYO</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 618 1457 1092 1500; baseline 0.002 -11"><span class='ocrx_word' id='word_1_26' title='bbox 618 1457 794 1490; x_wconf 85' lang='lat' dir='ltr'><strong>Maruzen</strong></span> <span class='ocrx_word' id='word_1_27' title='bbox 809 1458 1002 1500; x_wconf 87' lang='lat' dir='ltr'>Company</span> <span class='ocrx_word' id='word_1_28' title='bbox 1018 1457 1092 1490; x_wconf 85' lang='lat' dir='ltr'><strong>Ltd</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 719 1568 992 1602">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 719 1568 992 1602">
+     <span class='ocr_line' id='line_1_9' title="bbox 719 1568 992 1602; baseline 0.004 -8"><span class='ocrx_word' id='word_1_29' title='bbox 719 1568 768 1594; x_wconf 79' lang='lat' dir='ltr'><strong>All</strong></span> <span class='ocrx_word' id='word_1_30' title='bbox 776 1568 860 1602; x_wconf 68' lang='lat' dir='ltr'><em>rights</em></span> <span class='ocrx_word' id='word_1_31' title='bbox 872 1568 992 1595; x_wconf 79' lang='lat' dir='ltr'><em>reserved</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
